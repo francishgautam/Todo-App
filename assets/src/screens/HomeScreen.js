@@ -10,3 +10,5 @@ const HomeScreen = () => {
     </View>
   );
 };
+
+const foo = "aalu";
